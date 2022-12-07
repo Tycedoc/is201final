@@ -1,9 +1,10 @@
 .headone{
     text-align: center;
     color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: cursive;
     font-weight: 700;
     font-size: 150;
+    text-decoration-line: underline;
 }
 
 .nav{
@@ -13,7 +14,7 @@
 
 .headtwo{
 font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-color: blue;
+color:royalblue;
 }
 
 .headthree{
@@ -22,7 +23,7 @@ color: blue;
 }
 
 .list{
-    color: blue;
+    color: royalblue;
     font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
