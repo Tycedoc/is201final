@@ -1,0 +1,31 @@
+.headone{
+    text-align: center;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 150;
+}
+
+.nav{
+    text-align: right;
+    text-decoration-line: underline;
+}
+
+.headtwo{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: blue;
+}
+
+.headthree{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+}
+
+.list{
+    color: blue;
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.video{
+    align-content: center;
+}
